@@ -15,7 +15,7 @@ Operating System   	 : 	Windows 10/x-64
 Languages  		 : 	java 
 Front End	   	 : 	Swing
 Platform		 : 	NetBeans IDE 8.2
-Backend                             : 	MySQL
+Backend                  : 	MySQL
 
 Classes of Payment Billing System:-
 	Buyer Class: Manages all the operations of the buyer.
@@ -36,106 +36,63 @@ Classes and their attributes:-
                                   (here,activate states the availability of the product)
 
 Class Diagram:
-
-
-
-
-
-	
-
-
-
-	
-
-
-
-
-
+![](Screenshots/class_diagram.png)
 
 
 ER Diagram:-
 
-
-
-
-
-
-
-
-
-
-
+![](Screenshots/ER_diagram.png)
 
 
 Dataflow Diagram:-
-
-
-
-
-
-
+![](Screenshots/dataflow_diagram.png)
 
 
 Activity Diagram:-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](Screenshots/activity_diagram.png)
 
 
 
 Steps:-
 1.Login as admin.
 On filling incorrect details:
- 
+![](Screenshots/Incorrect_Username_Password.png)
 
 On filling cocrrect details:
- 
+ ![](Screenshots/Correct_Username.png)
 
 2. Now admin can enter details of new buyer,update details of buyer,see the list of buyers and delete information of any buyer.
 •	To insert a new details of any new buyer:
  
+![](Screenshots/insert_buyer.png)
+ 
 •	To update details of any buyer:
+![](Screenshots/update_buyer.png) 
  
 •	To see the  details of all the buyers:
- 
+![](Screenshots/buyer_details.png)
+
 •	To delete the details  of any buyer:
- 
+ ![](Screenshots/delete_buyer.png)
 
 3. Similarly, admin has the authority for insert, update, delete and see the details of any product.
 •	To insert new product:
- 
+![](Screenshots/insert_product.png)
+
 •	To update any product details:
- 
+![](Screenshots/update_product.png)
+
 •	To look product details:
+ ![](Screenshots/product_details.png)
  
 •	To delete any product details:
- 
+ ![](Screenshots/delete_product.png)
 
 4.To generate bill:
- 
+ ![](Screenshots/billing.png)
 
 5.Logout
- 
-
-
-
-
+![](Screenshots/logout.png) 
 
                                                                                                                                  Submitted By:-
                                                                                                                                  Sakshi Modi
