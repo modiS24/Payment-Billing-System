@@ -12,23 +12,28 @@ Admin:
 
 Software Specificatios:
 Operating System   	 : 	Windows 10/x-64
+
 Languages  		 : 	java 
+
 Front End	   	 : 	Swing
+
 Platform		 : 	NetBeans IDE 8.2
+
 Backend                  : 	MySQL
 
-Classes of Payment Billing System:-
+
+Classes of Payment Billing System:-                                           
 	Buyer Class: Manages all the operations of the buyer.
 1.	New Buyer
 2.	Update Buyer
-3.	Buyer Details
-4.	Delete Buyer
+3.	Buyer Details  
+4.	Delete Buyer         
 	Product Class: Manages all the operations of product.
 1.	New Product
 2.	Update Product
 3.	Product Details
 4.	Delete Product
-	Bill Class: Manages all the operations of bill.
+                	Bill Class: Manages all the operations of bill.
 
 Classes and their attributes:-
 	Buyer attributes: name,contactNo,email,address,gender.
@@ -41,22 +46,20 @@ Class Diagram:
 
 ER Diagram:-
 
-![](Screenshots/ER_diagram.png)
+![](Screenshots/ER_Diagram.png)
 
 
 Dataflow Diagram:-
 ![](Screenshots/dataflow_diagram.png)
-
-
 Activity Diagram:-
+
 ![](Screenshots/activity_diagram.png)
 
-
-
 Steps:-
-1.Login as admin.
-On filling incorrect details:
+    1.Login as admin.     On filling incorrect details:
 ![](Screenshots/Incorrect_Username_Password.png)
+
+
 
 On filling cocrrect details:
  ![](Screenshots/Correct_Username.png)
@@ -76,6 +79,7 @@ On filling cocrrect details:
  ![](Screenshots/delete_buyer.png)
 
 3. Similarly, admin has the authority for insert, update, delete and see the details of any product.
+
 •	To insert new product:
 ![](Screenshots/insert_product.png)
 
