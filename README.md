@@ -54,7 +54,7 @@ Class Diagram:
 
 
 ER Diagram:-
-
+![](Screenshots/ER_Diagram.png)
 
 
 
@@ -68,7 +68,7 @@ ER Diagram:-
 
 
 Dataflow Diagram:-
-
+![](Screenshots/dataflow_diagram.png)
 
 
 
@@ -78,7 +78,7 @@ Dataflow Diagram:-
 
 Activity Diagram:-
 
-
+![](Screenshots/activity_diagram.png)
 
 
 
@@ -102,10 +102,10 @@ Activity Diagram:-
 Steps:-
 1.Login as admin.
 On filling incorrect details:
- 
+ ![](Screenshots/Incorrect_Username_Password.png)
 
 On filling cocrrect details:
- 
+ ![](Screenshots/Correct_Username.png)
 
 2. Now admin can enter details of new buyer,update details of buyer,see the list of buyers and delete information of any buyer.
 •	To insert a new details of any new buyer:
