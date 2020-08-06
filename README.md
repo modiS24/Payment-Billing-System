@@ -37,7 +37,7 @@ Classes and their attributes:-
 
 Class Diagram:
 
-![](class_diagram.png)
+![](Screenshots/class_diagram.png)
 
 
 
