@@ -108,30 +108,30 @@ On filling cocrrect details:
  ![](Screenshots/Correct_Username.png)
 
 2. Now admin can enter details of new buyer,update details of buyer,see the list of buyers and delete information of any buyer.
-•	To insert a new details of any new buyer:
- 
+•	To insert a  details of any new buyer:
+ ![](Screenshots/insert_buyer.png)
 •	To update details of any buyer:
- 
+ ![](Screenshots/update_buyer.png)
 •	To see the  details of all the buyers:
- 
+ ![](Screenshots/buyer_details.png)
 •	To delete the details  of any buyer:
- 
+ ![](Screenshots/delete_buyer.png)
 
 3. Similarly, admin has the authority for insert, update, delete and see the details of any product.
 •	To insert new product:
- 
+ ![](Screenshots/insert_product.png)
 •	To update any product details:
- 
+ ![](Screenshots/update_product.png)
 •	To look product details:
- 
+![](Screenshots/product_details.png) 
 •	To delete any product details:
- 
+  ![](Screenshots/delete_product.png)
 
 4.To generate bill:
- 
+ ![](Screenshots/billing.png) 
 
 5.Logout
- 
+  ![](Screenshots/logout.png)
 
 
 
